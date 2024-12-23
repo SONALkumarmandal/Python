@@ -1,0 +1,18 @@
+what is Python?
+
+# A programming language that is :
+
+    *versetie
+    *easy and simple
+    *free and Open source - open source means it is completely free to use
+    *high level language - easy to understand for humans
+    *Developed by Guido Van Rossum
+
+    *compiler converts python code (high level) ----> low level (machine friendly) to understand.
+
+     by using python we go to fields like 
+
+     *Data science 
+     *Machine Learing
+     *web Dev (Django in backend)
+     *creating games
